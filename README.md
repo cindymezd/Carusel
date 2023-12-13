@@ -12,8 +12,8 @@ WDCarusel is a simple jQuery plugin for creating a responsive carousel with navi
 
 Customize the options as needed.
 ## Options
-`infinite`: Enable or disable infinite looping (default: false).
-`autoplay`: Enable or disable autoplay (default: false).
-`autoplayDelay`: Set the autoplay delay in milliseconds (default: 3000).
-`stopInHover`: Pause autoplay on hover (default: false).
-`itemsCount`: Number of items to display at a time (default: 1).
+`infinite`: Enable or disable infinite looping (default: false).  
+`autoplay`: Enable or disable autoplay (default: false).  
+`autoplayDelay`: Set the autoplay delay in milliseconds (default: 3000).  
+`stopInHover`: Pause autoplay on hover (default: false).  
+`itemsCount`: Number of items to display at a time (default: 1).  
